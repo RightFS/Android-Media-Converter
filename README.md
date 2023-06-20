@@ -8,6 +8,9 @@
 As it name, user can convert media file to other encoding format easily with preset commands. The app 
 also can be extended, by allowing user to create their own command.
 
+## Build ffmpeg excutable
+Thanks for [ffmpeg-android-maker](https://github.com/Javernaut/ffmpeg-android-maker), just follow the readme file.
+
 ## Build app
 To build the app, you need to create [Fabric](https://fabric.io) account, then place your Fabric's api
 key in `app/fabric.properties` file:
